@@ -3,7 +3,7 @@
 int main(){
 
     Letter l;
-    l.print("blackjack");
+    l.print("sidar");
 
     return 0;
 }
